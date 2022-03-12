@@ -1,2 +1,2 @@
 # MS-SQL
-Demo code and DB-projects
+Demo code and DB projects
